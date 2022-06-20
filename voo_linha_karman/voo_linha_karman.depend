@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1655734275 source:c:\users\micro\documents\codeblocksprojects\voo_linha_karman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
